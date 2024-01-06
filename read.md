@@ -1,0 +1,1 @@
+// This is an Text extraction from image app.
